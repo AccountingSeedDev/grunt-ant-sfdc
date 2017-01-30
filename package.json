@@ -1,26 +1,20 @@
 {
-  "name": "grunt-ant-sfdc",
+  "name": "@chrisxjoh/grunt-ant-sfdc",
   "description": "Add salesforce and force.com ANT tasks to your grunt builds",
   "version": "1.6.0",
   "homepage": "https://github.com/kevinohara80/grunt-ant-sfdc",
   "author": {
     "name": "Kevin O'Hara",
     "email": "kevinohara80@gmail.com",
-    "url": "http://kevinmohara.com"
+    "url": "http://accountingseed.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/kevinohara80/grunt-ant-sfdc.git"
+    "url": "https://github.com/AccountingSeedDev/grunt-ant-sfdc"
   },
   "bugs": {
-    "url": "https://github.com/kevinohara80/grunt-ant-sfdc/issues"
+    "url": "https://github.com/AccountingSeedDev/grunt-ant-sfdc/issues"
   },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/kevinohara80/grunt-ant-sfdc/blob/master/LICENSE-MIT"
-    }
-  ],
   "main": "Gruntfile.js",
   "engines": {
     "node": ">= 0.8.0"
