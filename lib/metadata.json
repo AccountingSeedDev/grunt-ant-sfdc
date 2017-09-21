@@ -189,6 +189,11 @@
     "folder": "flowDefinitions",
     "allowStar": true
   },
+    "flexipage": {
+    "xmlType": "FlexiPage",
+    "folder": "flexipages",
+    "allowStar": true
+  },
   "folder": {
     "xmlType": "Folder",
     "folder": ["documents","email","reports","dashboards"],
