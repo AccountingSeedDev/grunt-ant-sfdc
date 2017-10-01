@@ -94,7 +94,7 @@
     "folder": "communities",
     "allowStar": true
   },
-  "contentassets": {
+  "contentasset": {
     "xmlType": "ContentAsset",
     "folder": "contentassets",
     "allowStar": true
