@@ -9,6 +9,11 @@
     "folder": "aura",
     "allowStar": true
   },
+  "lwc": {
+    "xmlType": "LightningComponentBundle",
+    "folder": "lwc",
+    "allowStar": true
+  },
   "corswhitelistorigins": {
     "xmlType": "CorsWhitelistOrigin",
     "folder": "corsWhitelistOrigins",
